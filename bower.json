@@ -1,0 +1,23 @@
+{
+  "name": "autoCompleteWidget",
+  "authors": [
+    "Philip Simoneau <philip.simoneau@beeline.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "jquery-ui": "^1.11.4",
+    "bootstrap": "^3.3.6"
+  }
+}
